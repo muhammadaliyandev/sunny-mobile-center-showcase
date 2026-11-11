@@ -1,4 +1,5 @@
-# Sunny Mobile Center — POS (Showcase)
+- **Multi-shop SaaS — Phase 1 live (Nov 2026)** — a Super Admin panel, per-shop data isolation, staff roles (a salesman sees billing only), and module switches per shop.
+
 
 > **Showcase only — this repo contains no source code.**
 > It shows a live point-of-sale system that is in daily use at a mobile shop in Bahawalnagar, Pakistan. The live shop system itself stays private.
